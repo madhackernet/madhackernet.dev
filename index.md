@@ -1,3 +1,3 @@
-## Welcome to madhackernet.dev
+# Welcome to madhackernet.dev
 
 `await CreateSomethigNew()`
